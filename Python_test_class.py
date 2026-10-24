@@ -82,6 +82,9 @@ multiplicacao = numero*sec_numero
 print("Soma: ", soma)
 print("Multiplicação: ", multiplicacao)
 
+
+#Exercício 3
+
 nome = input("Qual o seu nome? ")
 
 num1 = int(input("Digite um número inteiro: "))
